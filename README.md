@@ -6,8 +6,6 @@ Chatbot conversacional desenvolvido durante o desafio **#7DaysOfCode** da Alura,
 
 O desafio foi aceito com um objetivo claro: **aprender, se desafiar e fazer algo diferente**. Ao longo de 7 dias, o projeto evoluiu desde a configuração do ambiente até a implementação completa de um chatbot com memória de conversa, handlers e interface web.
 
-Um detalhe curioso: o projeto deveria ser feito no **Google Colab**, mas no início foi desenvolvido no **VS Code** — o que gerou alguns reajustes no caminho. Faz parte do aprendizado! 😄
-
 ## 🚀 Tecnologias utilizadas
 
 - **TinyLlama 1.1B** — modelo de linguagem local
