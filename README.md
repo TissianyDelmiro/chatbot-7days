@@ -26,11 +26,14 @@ O desafio foi aceito com um objetivo claro: **aprender, se desafiar e fazer algo
 - ✅ Despedida personalizada com o nome do usuário
 - ✅ Nome do usuário salvo no histórico da conversa
 
-## 📁 Estrutura do projeto
-chatbot-7days/
-├── app.py              # Código principal do chatbot (Chainlit + LangChain)
-├── requirements.txt    # Dependências do projeto (TinyLlama, etc.)
-└── README.md           # Documentação do projeto
+### Estrutura do projeto
+
+| Arquivo/Diretório | Descrição |
+| :--- | :--- |
+| 📁 **chatbot-7days/** | Pasta raiz do projeto |
+| ├── 📄 **app.py** | Código principal do chatbot (Chainlit + LangChain) |
+| ├── 📄 **requirements.txt** | Lista de dependências (TinyLlama, etc) |
+| └── 📄 **README.md** | Documentação do repositório |
 
 ## 🧠 O que foi aprendido
 
