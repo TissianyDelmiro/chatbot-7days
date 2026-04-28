@@ -1,0 +1,6 @@
+chainlit
+transformers
+torch
+langchain
+pyngrok
+accelerate
