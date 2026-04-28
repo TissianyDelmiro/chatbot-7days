@@ -45,7 +45,6 @@ O desafio foi aceito com um objetivo claro: **aprender, se desafiar e fazer algo
 
 ## 🐛 Dificuldades e erros enfrentados
 
-- **Ambiente errado** — o projeto foi iniciado no VS Code quando deveria ser no Google Colab, o que exigiu reajustes
 - **Alucinações do modelo** — o TinyLlama inventava continuações de conversa, simulando respostas do próprio usuário. Resolvido cortando o texto ao detectar padrões como `Human:` e `User:`
 - **Memória da conversa** — implementar a memória corretamente para o modelo não perder o contexto foi um dos maiores desafios
 - **Indentação** — erros de indentação no Python travaram o Chainlit algumas vezes durante o desenvolvimento
