@@ -1,0 +1,6 @@
+.chainlit/
+.config/
+__pycache__/
+chainlit.md
+sample_data/
+.env
