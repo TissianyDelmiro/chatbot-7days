@@ -27,10 +27,10 @@ O desafio foi aceito com um objetivo claro: **aprender, se desafiar e fazer algo
 - ✅ Nome do usuário salvo no histórico da conversa
 
 ## 📁 Estrutura do projeto
--chatbot-7days/
--│
--├── app.py        # código principal do chatbot
--└── README.md     # documentação do projeto
+📁 chatbot-7days/
+├── 📄 app.py              # Código principal do chatbot (Chainlit + LangChain)
+├── 📄 requirements.txt    # Dependências do projeto (TinyLlama, etc.)
+└── 📄 README.md           # Documentação do projeto
 
 ## 🧠 O que foi aprendido
 
