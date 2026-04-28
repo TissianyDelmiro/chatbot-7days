@@ -1,4 +1,3 @@
-%%writefile README.md
 # 🤖 Chatbot 7DaysOfCode
 
 Chatbot conversacional desenvolvido durante o desafio **#7DaysOfCode** da Alura, utilizando um modelo de linguagem local e interface interativa.
