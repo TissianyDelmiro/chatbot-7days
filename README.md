@@ -27,10 +27,11 @@ O desafio foi aceito com um objetivo claro: **aprender, se desafiar e fazer algo
 - ✅ Nome do usuário salvo no histórico da conversa
 
 ## 📁 Estrutura do projeto
-chatbot-7days/
-│
-├── app.py        # código principal do chatbot
-└── README.md     # documentação do projeto
+-chatbot-7days/
+-│
+-├── app.py        # código principal do chatbot
+-└── README.md     # documentação do projeto
+
 ## 🧠 O que foi aprendido
 
 - Como criar e gerenciar **memória de conversa** com LangChain
